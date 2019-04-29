@@ -10,4 +10,3 @@ repositorio de analisis y desarrollo de sistemas de informacion:
 7. sass
 8. javascrip
 =================================================================
-================================================================
